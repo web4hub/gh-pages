@@ -3,7 +3,7 @@ layouts: site
 tittle: VIRTUAL BRAIN ID
 head: HOMEPAGE
 ---
-
+ 
 <h2>🧠 The Core  Engine </h2>
 
  
